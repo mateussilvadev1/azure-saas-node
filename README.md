@@ -6,7 +6,7 @@ Este projeto marca meu primeiro deploy profissional de uma aplicação **Node.js
 
 ## 🌐 Projeto online
 
-🔗 **[https://saas-mateus99.azurewebsites.net](https://saas-mateus99.azurewebsites.net)**
+🔗 **[saas-mateus99-d0gxfrgnadejfscg.brazilsouth-01.azurewebsites.net](hsaas-mateus99-d0gxfrgnadejfscg.brazilsouth-01.azurewebsites.net)**
 
 ---
 ## 🧠 Objetivo
@@ -71,4 +71,4 @@ Aprender a lidar com deploy, logs, erros e ambiente de execução é um divisor 
 
 **Mateus Silva**  
 Desenvolvedor em formação, graduando em Analise e desenvolvimento de sistemas, estudante na Rocketseat, explorando Cloud, SaaS e Inteligência Artificial.  
-💼 [LinkedIn](https://www.linkedin.com) | 🌎 [Azure Project](https://saas-mateus99.azurewebsites.net)
+💼 [LinkedIn](https://www.linkedin.com) | 🌎 [Azure Project](saas-mateus99-d0gxfrgnadejfscg.brazilsouth-01.azurewebsites.net)
